@@ -5,3 +5,18 @@
 body{
     font-family: 'Open Sans', sans-serif;
 }
+#intro{
+    background-image: url(../img/bg-2.jpg);
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size: cover;
+}
+#intro img{
+    
+    max-width: 80%;
+    padding-top: 10%;
+    padding-bottom: 3%;
+}
+#intro p{
+    padding-bottom: 10%;
+}
